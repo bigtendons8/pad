@@ -1,1 +1,4 @@
-{"pad":["/bigdendons8pad1.wav","/bigtendons8pad2.wav","/strudel.json"],"_base":"http://localhost:5432"}
+{
+	"10donspad":["/bigdendons8pad1.wav","/bigtendons8pad2.wav","/strudel.json"],
+	"_base":"https://raw.githubusercontent.com/bigtendons8/pad/main/"
+}
